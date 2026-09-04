@@ -14,7 +14,7 @@ Noten: Immernoch gleich, bis jetzt haten wir nur den Vorbereitungstest. Aber nä
 Veränderungen: Mir besser die Zeit einteilen
 Generelle Ziele:
 [X] An Modul 319 weiterarbeiten
-[X] An Modul 431 weiterarbeiten
-[X] Mich für den Test vorbereiten, den wir am Mittwoch schreiben werden
+[] An Modul 431 weiterarbeiten
+[] Mich für den Test vorbereiten, den wir am Mittwoch schreiben werden
 Reflexion:
 Reflexion für nächste LA:
