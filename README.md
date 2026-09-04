@@ -15,6 +15,6 @@ Ziele:
 3. Generelle Ziele:
 4. [X] An Modul 319 weiterarbeiten
 5. [] An Modul 431 weiterarbeiten
-6. [] Mich für den Test vorbereiten, den wir am Mittwoch schreiben werden
+6. [X] Mich für den Test vorbereiten, den wir am Mittwoch schreiben werden
 7. Reflexion:
 8. Reflexion für nächste LA:
