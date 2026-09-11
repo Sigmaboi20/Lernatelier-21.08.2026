@@ -23,5 +23,6 @@ Ziele:
 1. Noten:
 2. Veränderung:
 3. Generelle Ziele:
-4. An Modul 319 weiterarbeiten
-5. Reflexion:
+4. [X] An Modul 319 weiterarbeiten
+5. [X] Den Begriff "Arrays" verstehen
+6. Reflexion:
