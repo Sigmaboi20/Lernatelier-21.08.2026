@@ -16,5 +16,12 @@ Ziele:
 4. [X] An Modul 319 weiterarbeiten
 5. [] An Modul 431 weiterarbeiten
 6. [X] Mich für den Test vorbereiten, den wir am Mittwoch schreiben werden
-7. Reflexion:
-8. Reflexion für nächste LA:
+7. Reflexion: Ich habe mich gut für den Test vorbereitet und ich fühle mich jetzt sicher
+8. Reflexion für nächste LA: Ich möchte nächstes mal konzentrierter arbeiten
+
+# Lernatelier-11.09.2026
+1. Noten:
+2. Veränderung:
+3. Generelle Ziele:
+4. An Modul 319 weiterarbeiten
+5. Reflexion:
