@@ -31,5 +31,5 @@ Ziele:
 1. Noten: Bis jetzt keine neue
 2. Veränderung: Ich will mich besser konzentrieren und fokussierter arbeiten
 3. Generelle Ziele:
-4. [] Mission 8 abschliessen
+4. [X] Mission 8 abschliessen
 5. [] Mit Mission 9 anfangen
