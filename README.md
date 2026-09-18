@@ -26,3 +26,10 @@ Ziele:
 4. [X] An Modul 319 weiterarbeiten
 5. [X] Den Begriff "Arrays" verstehen
 6. Reflexion:
+
+# Lernatelier-18.09.2026
+1. Noten: Bis jetzt keine neue
+2. Veränderung: Ich will mich besser konzentrieren und fokussierter arbeiten
+3. Generelle Ziele:
+4. [] Mission 8 abschliessen
+5. [] Mit Mission 9 anfangen
