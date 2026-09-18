@@ -32,4 +32,5 @@ Ziele:
 2. Veränderung: Ich will mich besser konzentrieren und fokussierter arbeiten
 3. Generelle Ziele:
 4. [X] Mission 8 abschliessen
-5. [] Mit Mission 9 anfangen
+5. [X] Mit Mission 9 anfangen
+6. Reflexion: Ich habe meine Ziele erreicht und bin zufrieden mit meiner Leistung
