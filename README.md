@@ -34,3 +34,10 @@ Ziele:
 4. [X] Mission 8 abschliessen
 5. [X] Mit Mission 9 anfangen
 6. Reflexion: Ich habe meine Ziele erreicht und bin zufrieden mit meiner Leistung
+
+# Lernatelier-25.09.2026
+1. Noten: Bis jetzt keine neue
+2. Veränderung: Ich will die Mission 9 verstehen
+3. Generelle Ziele: 
+4. [X] Mission 9 verstehen
+6. Reflexion: 
