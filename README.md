@@ -40,4 +40,4 @@ Ziele:
 2. Veränderung: Ich will die Mission 9 verstehen
 3. Generelle Ziele: 
 4. [X] Mission 9 verstehen
-6. Reflexion: 
+6. Reflexion: Zielerreicht, bin sehr zufrieden mit meiner Leistung
