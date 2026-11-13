@@ -19,7 +19,15 @@
 1. Noten: Bis jetzt keine neue, aber wir hatten am Dienstag die Abgabe der Modul 431 und am Mittwoch die 319 Modul Prüfung
 2. Veränderung: 
 3. Generelle Ziele:
-[] An unserem Projekt weiter arbeiten
-[] Pause gut einteilen
+[x] An unserem Projekt weiter arbeiten
+[x] Pause gut einteilen
 6. Reflexion: Ich konnte mich gut konzentrieren, da alle heute leise und für sich gearbeitet haben. Am Schluss wurde es
 aber bisschen unruhig, da es kurz vor der Nachmittagpause war
+
+### Lernatelier-13.11.2026
+1. Noten: Heute haben wir die Note zur 319 Modul Prüfung zurück bekommen. Ich habe eine 4 geschrieben, aber ich will mich aufjedenfall verbessern.
+2. Veränderung: 
+3. Generelle Ziele:
+[X] Mir die Prüfung anschauen und meine Fehler verstehen.
+[] Mein Projekt anschauen und schauen wo ich weiterarbeiten kann. Dann an diesen Teilen weitermachen
+6. Reflexion:
