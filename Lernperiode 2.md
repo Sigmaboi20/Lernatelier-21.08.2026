@@ -29,5 +29,5 @@ aber bisschen unruhig, da es kurz vor der Nachmittagpause war
 2. Veränderung: 
 3. Generelle Ziele:
 [X] Mir die Prüfung anschauen und meine Fehler verstehen.
-[] Mein Projekt anschauen und schauen wo ich weiterarbeiten kann. Dann an diesen Teilen weitermachen
-6. Reflexion:
+[X] Mein Projekt anschauen und schauen wo ich weiterarbeiten kann. Dann an diesen Teilen weitermachen
+6. Reflexion: Ich habe heute bisschen unkonzentriert gearbeitet, da ich heute ziemlich müde war. Ich war bisschen zu oft am Handy aber sonst habe ich gut gearbeitet
