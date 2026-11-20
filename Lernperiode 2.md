@@ -30,4 +30,11 @@ aber bisschen unruhig, da es kurz vor der Nachmittagpause war
 3. Generelle Ziele:
 [X] Mir die Prüfung anschauen und meine Fehler verstehen.
 [X] Mein Projekt anschauen und schauen wo ich weiterarbeiten kann. Dann an diesen Teilen weitermachen
-6. Reflexion: Ich habe heute bisschen unkonzentriert gearbeitet, da ich heute ziemlich müde war. Ich war bisschen zu oft am Handy aber sonst habe ich gut gearbeitet
+
+### Lernatelier-20.11.2026
+1. Noten: Modul 431 zurückbekommen und ich habe eine 5
+2. Veränderung: 
+3. Generelle Ziele:
+[X] Ruhig arbeiten
+[X] Mein Wissen in C-sharp erweitern und Fehler verbesseren
+6. Reflexion: Ich habe heute gut gearbeitet, weil ich habe nicht viel geredet und ich habe meine Ziele erreicht
